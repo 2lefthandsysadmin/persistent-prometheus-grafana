@@ -8,4 +8,5 @@ To run the codes:
 > cd persistent-prometheus-grafana
 3. Run the following commands:
 > kubectl apply -k prometheus/
+
 > kubectl apply -k grafana/
