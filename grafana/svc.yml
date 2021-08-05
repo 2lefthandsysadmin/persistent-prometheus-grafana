@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     env: visuals
-  type: NodePort
+  type: LoadBalancer
   ports:
   - nodePort: 30002
     port: 3000
